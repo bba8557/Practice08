@@ -14,7 +14,7 @@ public class SumApp {
 		//코드를 작성하세요
 		
 		
-		
+		//String[]  = .split(" ");
 		System.out.println("합:" + sum);
 		
 		sc.close();
